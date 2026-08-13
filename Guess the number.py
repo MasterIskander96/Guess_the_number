@@ -32,6 +32,5 @@ while True:
     elif number == rand:
         print("Congratulations! You guessed it!🥳🥳🥳")
         break
-
     else:
         print("None!")
