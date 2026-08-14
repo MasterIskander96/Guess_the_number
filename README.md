@@ -73,7 +73,7 @@ guess-the-number/
 
 ## 👨‍💻 Author
 
-My first programming project — **Guess the Number**.
+Author:Iskander Abdullayev
 
 ## 📄 License
 
